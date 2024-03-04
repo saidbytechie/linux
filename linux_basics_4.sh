@@ -8,7 +8,7 @@
     # a user cannot access files within, even if they have read permission on the directory.
 
 # Example:
-# rwxr-xr-- : rwx (The owner has read, write, and execute permissions); r-x (the group associated with the file has read, and execution permissions). 
+# rwxr-xr-- : rwx (The owner has read, write, and execute permissions); r-x (the group associated with the file has read, and execution permissions);
             # r-- (others have only read access).
 
 # few commands to modify file permissions
